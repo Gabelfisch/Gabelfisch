@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabelfisch
 - 👀 I’m interested in ... Climbing, C# and Python
-- 🌱 I’m currently learning ... Object orientated Programming/UML Graphs
+- 🌱 I’m currently learning ... Object orientated Programming/Polymorphism
 - 💞️ I’m looking to collaborate on ... school stuff ig?
 - 📫 How to reach me ... dc: _ga3riel or my email: gabrielsinz@gmx.at
